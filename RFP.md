@@ -1,4 +1,4 @@
-### **Request for Proposal (RFP): High-Performance Wireless Network Upgrade**
+### **Request for Proposal (RFP): Wireless Network Upgrade**
 
 **RFP Number:** HINN-WPG-WIFI-2025  
 **Date of Issue:** July 21, 2025  
