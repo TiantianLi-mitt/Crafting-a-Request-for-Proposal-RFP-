@@ -8,8 +8,8 @@ To continually enhance guest satisfaction, we are seeking proposals from top-tie
 
 ## **2.0 Project Scope**
 
-### **2.1 Project Objectives:**
-*   **Enhance Guest Experience:**  
+### **2.1 Objectives:**
+*   **Enhance Guest Experience**  
       To provide high-speed, stable, and seamless roaming Wi-Fi, free of charge, in all areas of the hotel.
 *   **Ensure Operational Efficiency:**  
       To establish an independent and secure wireless network for internal hotel operations.
@@ -18,7 +18,7 @@ To continually enhance guest satisfaction, we are seeking proposals from top-tie
 *   **Simplify IT Operations:**  
       To establish a centralized management platform that simplifies daily monitoring and maintenance tasks for our IT team.
 
-### **2.2 Coverage Area Requirements:**
+### **2.2 Scope of Work**
 The new wireless network must provide 100% coverage in the following areas:
 *   **High-Density Public Areas:**  
       Hotel lobby, restaurant, ballroom, and all meeting rooms.
@@ -27,7 +27,7 @@ The new wireless network must provide 100% coverage in the following areas:
 *   **Amenity and Office Areas:**  
       Executive lounge, fitness centre, poolside, and back-office administrative areas.
 
-### **2.3 Project Deliverables:**
+### **2.3 Deliverables**
 1.  **Site Survey Report:**  
        A comprehensive report including predictive signal coverage heatmaps.
 2.  **Solution Design Document:**  
@@ -41,10 +41,9 @@ The new wireless network must provide 100% coverage in the following areas:
 6.  **On-site Technical Training:**  
         In-depth technical training for the hotel's IT team.
 
-## **3.0 Technical and Compliance Requirements**
+## **3.0 Technical Requirements**
 
-### **3.1 Integration with Existing Wired Network:**
-This is a critical component of the project. The vendor must provide a detailed explanation of how the new wireless network will be seamlessly integrated into our existing wired infrastructure. The proposal must include:
+### **3.1 Integration with Existing Wired Network**
 *   **Assessment of Existing Infrastructure:**  
       An evaluation of our current core switches, access switches, and firewall to determine if their performance  are sufficient for the new system.
 *   **Topology and Connectivity:**  
@@ -54,7 +53,7 @@ This is a critical component of the project. The vendor must provide a detailed 
 *   **Smooth Migration Plan:**  
       A phased, low-risk migration strategy.
 
-### **3.2 Network Performance and Architecture:**
+### **3.2 Network Performance and Architecture**
 *   **Wireless Standard:**  
       The solution must support Wi-Fi 6.
 *   **Network Segregation:**  
@@ -62,27 +61,25 @@ This is a critical component of the project. The vendor must provide a detailed 
 *   **Seamless Roaming:**  
       The system must support 802.11k/v/r protocols to ensure smooth connectivity for mobile users.
 
-### **3.3 Security and Compliance:**
+### **3.3 Security**
 *   **Guest Network Security:**  
       The solution must provide Client Isolation to prevent peer-to-peer communication between guest devices.
 *   **WPA3 Encryption:**  
       All SSIDs must support the WPA3 security standard.
 *   **Legal Compliance:**  
       The design must adhere to Canada's Personal Information Protection and Electronic Documents Act (PIPEDA) .
-*   **Wireless Intrusion Prevention System (WIPS):**  
+*   **Wireless Intrusion Prevention System :**  
       The system must be capable of detecting and preventing wireless threats such as rogue APs.
 
-### **3.4 Network Management:**  
+### **3.4 Network Management**  
 *   **Centralized Management:**  
       Provide a unified cloud-based or on-premise management platform.
-*   **HSIA Gateway:**  
-      The solution must include a robust High-Speed Internet Access gateway.
 
 ## **4.0 Vendor Qualifications**
-*   **Hospitality Industry Experience:**  
+*   **Experience:**  
       Vendors must provide at least three case studies of wireless network projects completed within the last five years for 4-star or 5-star hotels.
-*   **Professional Certifications:**  
-      The project team must include senior-level engineers with certifications from leading vendors (e.g., Cisco, Aruba/HPE, Ruckus).
+*   **Certifications:**  
+      The project team must include senior-level engineers with certifications from leading vendors.
 *   **Client References:**  
       Provide contact information for at least two IT managers from the referenced hotel projects.
 *   **Local Support:**  
@@ -94,6 +91,16 @@ This is a critical component of the project. The vendor must provide a detailed 
       Please submit the complete proposal in PDF format via email to tiantianli1@student.mitt.ca on **Tuesday,December30th,2025 by 5:00 PM**.
 *   **Proposal Structure:**  
       The proposal must follow the structure of this RFP and respond to each point sequentially. The cost breakdown must be in a separate section, detailing all expenses for hardware, software, implementation services, and annual maintenance.
+
+## **5.2 Evaluation Criteria:**
+*    **Technical Solution and Integration Capability (40%):**  
+       The thoroughness of the proposed solution, especially the feasibility and rigour of the plan for integration with our existing network.
+*    **Hospitality Sector Experience and Solution Fit (30%):**  
+       The vendor's understanding of hotel operational needs and the relevance of their case studies.
+*    **Cost-Effectiveness (20%):**  
+       Analysis of the total cost of ownership (TCO), including both initial investment and ongoing operational costs.
+*    **Local Support and Service Commitment (10%):**  
+       The quality of the after-sales support plan and Service Level Agreement (SLA).
 
 ## **6.0 Terms and Conditions**
 *   **Contract Duration:**  
