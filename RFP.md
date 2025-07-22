@@ -100,15 +100,15 @@ The new wireless network must provide 100% coverage in the following areas:
 *    **Cost-Effectiveness (20%):**  
        Analysis of the total cost of ownership (TCO), including both initial investment and ongoing operational costs.
 *    **Local Support and Service Commitment (10%):**  
-       The quality of the after-sales support plan and Service Level Agreement (SLA).
+       The quality of the after-sales support plan and Service Level Agreement.
 
 ## **6.0 Terms and Conditions**
 *   **Contract Duration:**  
       The initial contract term will be for one year. Renewals will be based on performance.
 *   **Confidentiality:**  
-      All bidding vendors must maintain the confidentiality of the information within this RFP. The selected vendor will be required to sign a formal Non-Disclosure Agreement (NDA).
+      Vendors must maintain the confidentiality of the information within this RFP. 
 *   **On-site Work:**  
-      All on-site installation work must be conducted during non-peak hours (e.g., overnight) to minimize disruption to our guests and must comply with all hotel management policies.
+      All on-site installation work must be conducted during non-peak hours (e.g., overnight).
 
 ---
 We look forward to partnering with an expert vendor who truly understands the hospitality business to create a leading-edge, intelligent hotel network experience.
