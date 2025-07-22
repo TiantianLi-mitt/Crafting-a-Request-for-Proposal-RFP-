@@ -86,13 +86,13 @@ The new wireless network must provide 100% coverage in the following areas:
       Vendors must have a permanent technical support team based in Winnipeg capable of providing 24/7 emergency response.
 
 ## **5.0 Proposal Submission**
-
+### **5.1 Submission Requirements**
 *   **Format and Deadline:**  
       Please submit the complete proposal in PDF format via email to tiantianli1@student.mitt.ca on **Tuesday,December30th,2025 by 5:00 PM**.
 *   **Proposal Structure:**  
       The proposal must follow the structure of this RFP and respond to each point sequentially. The cost breakdown must be in a separate section, detailing all expenses for hardware, software, implementation services, and annual maintenance.
 
-## **5.2 Evaluation Criteria:**
+### **5.2 Evaluation Criteria**
 *    **Technical Solution and Integration Capability (40%):**  
        The thoroughness of the proposed solution, especially the feasibility and rigour of the plan for integration with our existing network.
 *    **Hospitality Sector Experience and Solution Fit (30%):**  
